@@ -18,7 +18,7 @@ Student at the University of Illinois and lover of fun, accessible digital exper
 
 ### 🪩 Things I enjoy
 - Frederic's [new song](https://youtu.be/ZOgXQ9cpA20?si=QRiVwmL4zBW2QV1h)!
-- Improvised spring rolls
+- [Spring rolls](https://www.hungryhuy.com/how-to-make-goi-cuon-vietnamese-spring-rolls/)
 - Re-re-re-rewatching The Good Place
 
 ---
