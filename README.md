@@ -6,7 +6,8 @@ Student at the University of Illinois and lover of fun, accessible digital exper
 - President @ [Project: Code](http://projectcodeuiuc.org)
 - Project lead/management @ PeopleWeave (coming soon!)
 - Undergrad research assistant @ [ACTION Lab](http://jessiechinlab.ischool.illinois.edu)
-- App dev @ Synergy 
+- App dev @ Synergy
+- UI/UX design @ Rocqqs
 
 ### ⏪ Stuff I've done
 - Data engineering intern @ [Mizuho Bank HN](https://www.mizuhogroup.com/asia-pacific/vietnam/about)
