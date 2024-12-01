@@ -4,7 +4,7 @@ Student at the University of Illinois and lover of fun, accessible digital exper
 
 ### 👩‍💻 What I'm up to
 - President @ [Project: Code](http://projectcodeuiuc.org)
-- Project lead/management @ PeopleWeave (coming soon!)
+- Project lead/management @ PeopleWeave
 - Undergrad research assistant @ [ACTION Lab](http://jessiechinlab.ischool.illinois.edu)
 - App dev @ Synergy
 - UI/UX design @ [Rocqqs](http://www.rocqs.ai)
@@ -16,6 +16,8 @@ Student at the University of Illinois and lover of fun, accessible digital exper
 ### 🤓 Projects I'm working on
 - Illinois Solar Decathlon smart home app
 - Spaced Out: UIUC study space finder
+- Journalytics: data-based journal/mood-tracker
+- Headliner: a simple news reader with an emphasis on providing bipartisan stories
 
 ### 🪩 Things I enjoy
 - Frederic's [new song](https://youtu.be/ZOgXQ9cpA20?si=QRiVwmL4zBW2QV1h)!
