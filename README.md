@@ -13,9 +13,9 @@ Student at the University of Illinois and lover of fun, accessible digital exper
 - Data engineering & analytics intern @ [Mizuho Bank HN](https://www.mizuhogroup.com/asia-pacific/vietnam/about)
 - AI engineering intern @ [akaBot](https://akabot.com)
 
-### 🤓 Projects I'm working on
+### 🤓 Projects
 - Illinois Solar Decathlon smart home app
-- Spaced Out: UIUC study space finder
+- [Spaced Out](http://illinois-spaced-out.vercel.app): UIUC study space finder
 - Journalytics: data-based journal/mood-tracker
 - Headliner: a simple news reader with an emphasis on providing bipartisan stories
 
