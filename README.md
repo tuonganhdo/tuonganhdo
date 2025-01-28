@@ -10,7 +10,7 @@ Student at the University of Illinois and lover of fun, accessible digital exper
 - UI/UX design @ [Rocqqs](http://www.rocqs.ai)
 
 ### ⏪ Stuff I've done
-- Data engineering intern @ [Mizuho Bank HN](https://www.mizuhogroup.com/asia-pacific/vietnam/about)
+- Data engineering & analytics intern @ [Mizuho Bank HN](https://www.mizuhogroup.com/asia-pacific/vietnam/about)
 - AI engineering intern @ [akaBot](https://akabot.com)
 
 ### 🤓 Projects I'm working on
