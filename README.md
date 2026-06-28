@@ -11,6 +11,8 @@
 
 ### 🤓 Projects
 - [Spaced Out](http://illinois-spaced-out.vercel.app): UIUC study space finder
+- [Teach Me Something New](https://teach-me-something-new.vercel.app): Wikipedia, scroll-style
+- [BlockResume](https://github.com/tuonganhdo/blockresume): block-based resume builder (🚧 under construction)
 
 ---
 
