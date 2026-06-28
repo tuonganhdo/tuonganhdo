@@ -1,11 +1,11 @@
 ## Hi, I'm Anh 👋
 
 ### 👩‍💻 What I'm up to
-- SWE @ Databricks
+- SWE @ [Databricks](https://www.databricks.com)
 
 ### ⏪ Stuff I've done
 - Data analytics intern @ [FPT Software Japan](https://fptsoftware.jp/about-us/fpt-software-japan)
-- Data engineering & analytics intern @ [Mizuho Bank HN](https://www.mizuhogroup.com/asia-pacific/vietnam/about)
+- Data engineering intern @ [Mizuho Bank HN](https://www.mizuhogroup.com/asia-pacific/vietnam/about)
 - AI engineering intern @ [akaBot](https://akabot.com)
 - President @ [Project: Code](http://projectcodeuiuc.org)
 
